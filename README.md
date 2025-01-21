@@ -22,18 +22,14 @@ MUHAMMET EMİR ZAYIFOĞLU  //Missing
 This repository will be used for CENG201-Object Oriented Programming project
 nstallation and Usage
 
-# Settlers of Catan - Video Game Implementation
+# Catan Like Video Game Implementation
 ## Project Video
 https://www.youtube.com/watch?v=5gU-hPcPsbI
 ---
 ## Project Overview
-Welcome to our implementation of the classic board game *Settlers of Catan* as a video game! This project was developed using **C++** and the **SFML (Simple and Fast Multimedia Library)** for rendering and game interaction.
+Welcome to our implementation of Catan like board game as a video game! This project was developed using **C++** and the **SFML (Simple and Fast Multimedia Library)** for rendering and game interaction.
 
 Players can build settlements, trade resources, and strategize to achieve victory points in this immersive and interactive adaptation.
-
----
-
-**[Catan Game Rules](https://www.catan.com/sites/default/files/2021-06/catan_base_rules_2020_200707.pdf)**
 
 ---
 
