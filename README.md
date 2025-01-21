@@ -1,3 +1,15 @@
+# Project Description
+
+This project was developed **for educational purposes** to learn board game mechanics and practice object-oriented programming (OOP) principles. The project is **inspired by the game Catan** but has been independently designed and developed.
+
+The project **does not serve any commercial purposes** and is shared solely for the purpose of software development practice. **It is not affiliated with or endorsed by the creators or copyright holders of the game Catan.**
+
+This project was created with respect for intellectual property and copyright laws. 
+
+If you plan to use this project, please ensure compliance with all applicable copyright regulations.
+
+
+
 OOP_GROUP18  
 
 Group Members:  
